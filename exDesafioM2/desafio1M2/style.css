@@ -1,0 +1,114 @@
+@-UTF-8;
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    margin: 0px;
+}
+
+img{
+    height: 250px;
+    width: 473px;
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(88, 204, 88);
+    height: 200px;
+    width: auto;
+    margin: 0px auto 0px auto;
+    box-shadow: 3px 1px 20px 0px rgba(0, 0, 0, 0.596); 
+}
+
+header > h1{
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0px;
+}
+
+header > p{
+    color: white;
+    font-size: 0.9em;
+    text-align: center;
+    margin: 50px 0px;
+}
+
+nav{
+    margin:0px;
+}
+
+nav > p{
+    color: white;
+    text-align: justify;
+    margin: 80px 0px 0px 0px;
+
+}
+
+main{
+    background-color: white;
+    height: auto;
+    width: 500px;
+    margin: 0px auto;
+    box-shadow: 3px 2px 8px 0px rgba(0, 0, 0, 0.349);
+}
+
+.historia > h3{
+    color: green;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.historia > p{
+    color: black;
+    font-size: 0.8em;
+    text-align: justify;
+    margin: 10px;
+    
+}
+
+.primeiraversao > h3{
+    background-color: rgba(80, 228, 80, 0.411);
+    color: green;
+    font-size: 1.3em;
+    text-align: left;
+    margin: 20px 5px;
+}
+
+.primeiraversao > p{
+    color: black;
+    font-size: 0.8em;
+    text-align: justify;
+    margin: 10px;
+}
+
+.mascote > h3{
+    background-color: rgba(80, 228, 80, 0.411);
+    color: green;
+    font-size: 1.3em;
+    text-align: left;
+    margin: 20px 5px;
+}
+
+.mascote > p{
+    color: black;
+    font-size: 0.8em;
+    text-align: justify;
+    margin: 0px 15px;
+}
+
+footer{
+    height: auto;
+    background-color: green;
+    margin: 0px;
+}
+footer > p{
+    font-size: 0.8em;
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+span{
+    font-weight: bolder;
+}
